@@ -1,5 +1,5 @@
 # AI Playground Desktop Client
-Language Model playground to access languages models like StableML, ChatGPT, and more.
+Language Model playground to access languages models like StableLM, ChatGPT, and more.
 
 Language Models supported:
 
