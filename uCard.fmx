@@ -780,7 +780,7 @@ object CardFrame: TCardFrame
       Viewport.Height = 512.000000000000000000
       object Layout5: TLayout
         Align = Top
-        Size.Width = 594.000000000000000000
+        Size.Width = 50.000000000000000000
         Size.Height = 39.000000000000000000
         Size.PlatformDefault = False
         TabOrder = 3
@@ -788,7 +788,6 @@ object CardFrame: TCardFrame
           Align = Right
           Hint = 'Copy Response'
           Opacity = 0.500000000000000000
-          Position.X = 544.000000000000000000
           Size.Width = 50.000000000000000000
           Size.Height = 39.000000000000000000
           Size.PlatformDefault = False
@@ -1544,7 +1543,7 @@ object CardFrame: TCardFrame
         Kind = pkHTTPHEADER
         Name = 'Authorization'
         Options = [poDoNotEncode]
-        Value = 'Bearer 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'
+        Value = 'Bearer %api_key%'
       end
       item
         Kind = pkREQUESTBODY

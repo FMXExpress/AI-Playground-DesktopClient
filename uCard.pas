@@ -339,7 +339,7 @@ begin
   begin
       TTask.Run(procedure begin
         try
-          OAIRESTRequest.Params[0].Value := 'Bearer ' + MainForm.APIKeyEdit.Text;
+          OAIRESTRequest.Params[0].Value := 'Bearer ' + MainForm.OAAPIKeyEdit.Text;
           if (FProvider='openai') then
           begin
             OAIRESTClient.BaseURL := 'https://api.openai.com/v1/completions';
