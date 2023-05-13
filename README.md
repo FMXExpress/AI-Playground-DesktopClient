@@ -41,6 +41,8 @@ Requires [Skia4Delphi](https://github.com/skia4delphi/skia4delphi) to compile.
 
 Other Delphi AI clients:
 
+[AI Code Translator](https://github.com/FMXExpress/AI-Code-Translator)
+
 [Stable Diffusion Desktop Client](https://github.com/FMXExpress/Stable-Diffusion-Desktop-Client)
 
 [Stable Diffusion Text To Image Prompts](https://github.com/FMXExpress/Stable-Diffusion-Text-To-Image-Prompts)
