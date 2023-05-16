@@ -45,6 +45,8 @@ Other Delphi AI clients:
 
 [Stable Diffusion Desktop Client](https://github.com/FMXExpress/Stable-Diffusion-Desktop-Client)
 
+[Song Writer AI](https://github.com/FMXExpress/Song-Writer-AI)
+
 [Stable Diffusion Text To Image Prompts](https://github.com/FMXExpress/Stable-Diffusion-Text-To-Image-Prompts)
 
 [Generative AI Prompts](https://github.com/FMXExpress/Generative-AI-Prompts)
